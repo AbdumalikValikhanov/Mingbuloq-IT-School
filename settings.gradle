@@ -1,0 +1,2 @@
+rootProject.name = "Mingbuloq IT School"
+include ':app'
